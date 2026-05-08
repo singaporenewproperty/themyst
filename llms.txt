@@ -1,0 +1,9 @@
+# The Myst
+
+> The Myst — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/themyst/
+
+## Pages
+
+- [The Myst](https://singaporenewproperty.github.io/themyst/): The Myst property information.
